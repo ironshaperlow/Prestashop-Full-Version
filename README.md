@@ -235,4 +235,4 @@ This repository serves as the official landing page for PrestaShop. The software
 **Get the most recent version of PrestaShop today!**
 
 ---
-**Last updated:** 2026-10-23 23:41:05 UTC
+**Last updated:** 2026-10-24 02:04:20 UTC
